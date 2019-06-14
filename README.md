@@ -1,4 +1,4 @@
-# Cisco AMP for Endpoints Events Input
+# Cisco AMP for Endpoints EventInput
 
 ## Prerequisites
 
